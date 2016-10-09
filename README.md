@@ -18,9 +18,9 @@ some sample programs I did in python for practice
 	Running instructions:
 	
 		You must have Python istalled in your system.
-		1. Open a command line interface and navigate to the folder containing the file myftp
+		1. Open a command line interface and navigate to the folder containing the file myftp.py
 		2. Run the client file using the following command
-			2.1. python myftp <ftp server hostname> eg python myftp inet.cis.fiu.edu
+			2.1. python myftp <ftp server hostname> eg python myftp.py inet.cis.fiu.edu
 			2.2. You will be prompted to enter the username and password for the ftp server
 			2.3. After successful login onto the ftp server the following commands are available for user
 					2.3.1 ls -> List out ftp directory content
